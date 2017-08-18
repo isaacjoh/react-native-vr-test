@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "private": true,
   "scripts": {
+    "local": "react-native start --port 8080",
     "start": "node node_modules/react-native/local-cli/cli.js start",
     "bundle": "node node_modules/react-vr/scripts/bundle.js",
     "open": "node -e \"require('xopen')('http://localhost:8080/vr/')\"",
