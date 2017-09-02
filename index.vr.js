@@ -66,7 +66,7 @@ export default class GDVR_REACTVR_SITEPOINT_GALLERY extends React.Component {
             textAlignVertical: 'center',
             transform: [{translate: [0, 1, -3]}],
           }}>
-          Find Us!
+          Find the letters
         </Text>
       </View>
     );
